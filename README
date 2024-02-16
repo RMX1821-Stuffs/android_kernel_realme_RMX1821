@@ -1,3 +1,8 @@
+Information regarding missing commit history
+============================================
+
+We had a shallow clone of the original kernel repository when it was public, but at the momemnt they are made private or deleted by the lead developer(@Arrowsploit). Hence we uploaded the buildable kernel source, even if 90% of the commits history is missing.
+
 Linux kernel
 ============
 
